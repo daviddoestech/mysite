@@ -9,7 +9,7 @@ no_header = true
 
 # David Does Tech
 
-Backend Developer • Creator • Tech Enthusiast
+Backend Developer • Creator • Tech
 
 <div class="buttons centered big">
     <a class="suggested" href="/projects/">Projects →</a>
@@ -18,53 +18,50 @@ Backend Developer • Creator • Tech Enthusiast
     <a href="https://www.twitch.tv/daviddoestech">Twitch →</a>
 </div>
 
-Welcome!
+Welcome to my website.
 
-I'm **David Does Tech**, a developer and content creator who enjoys building software, experimenting with AI, creating websites, and exploring cybersecurity.
-
-This website is where I share my projects, ideas, and everything I'm currently working on.
+This is where I post my projects and other stuff I'm working on.
 
 </div>
 
-## 🚀 Projects
+## Projects
 
 ### D-Ecosystem
 
-D-Ecosystem is my main collection of software projects. It currently includes:
+D-Ecosystem is my main project. It includes:
 
-- **D-AI** — Artificial intelligence tools and experiments.
-- **D-BROWSER** — A lightweight browser project.
+- D-AI
+- D-BROWSER
 - More projects coming soon.
 
 <div class="buttons centered">
-    <a class="suggested" href="https://d-ecosystem.rf.gd">Visit D-Ecosystem →</a>
+    <a class="suggested" href="https://d-ecosystem.rf.gd">Open D-Ecosystem →</a>
 </div>
 
 ### Notcord
 
-A custom Discord-inspired application focused on speed, customization, and a clean interface.
+A Discord-inspired chat app made by me.
 
----
+<div class="buttons centered">
+    <a href="https://notcordonline.onrender.com">Open Notcord →</a>
+</div>
 
-## 💻 Setup
-
-Current PC:
+## PC
 
 - Ryzen 5 5500
-- NVIDIA RTX 3050 6GB
-- 16GB DDR4 3200MHz
+- RTX 3050 6GB
+- 16GB DDR4 3200
 - 24" 1080p 240Hz main monitor
 - Secondary WSXGA+ monitor
 
----
-
-## 🌐 Links
+## Links
 
 <div class="buttons centered big">
     <a href="https://github.com/daviddoestech">GitHub</a>
     <a href="https://youtube.com/@david_does_tech">YouTube</a>
     <a href="https://www.twitch.tv/daviddoestech">Twitch</a>
     <a href="https://d-ecosystem.rf.gd">D-Ecosystem</a>
+    <a href="https://notcordonline.onrender.com">Notcord</a>
 </div>
 
 ### Socials
@@ -72,11 +69,9 @@ Current PC:
 - GitHub: https://github.com/daviddoestech
 - YouTube: https://youtube.com/@david_does_tech
 - Twitch: https://www.twitch.tv/daviddoestech
-- Discord: **@DavidTech5**
+- Discord: @DavidTech5
 
----
-
-Thanks for stopping by! More projects, videos, and tools are always on the way.
+Thanks for visiting.
 
 <style>
 #profile {
@@ -88,6 +83,6 @@ Thanks for stopping by! More projects, videos, and tools are always on the way.
 }
 
 #profile:hover {
-    transform: scale(1.06) rotate(-4deg);
+    transform: scale(1.05) rotate(-3deg);
 }
 </style>

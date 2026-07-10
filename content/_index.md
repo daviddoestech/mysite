@@ -5,14 +5,13 @@ no_header = true
 +++
 
 <div class="container-fill">
-  <img id="profile" class="drop-shadow" src="https://yt3.googleusercontent.com/QX7-fLRLiZzxnIulvuYKBDmJwR-hiYPhpcK9rH2ScBvIgQD825iNshhtp-JPG_eH1XMVsxtR9w0=s160-c-k-c0x00ffffff-no-rj" alt="David Does Tech">
+  <img id="profile" class="drop-shadow" src="pic.png" alt="David Does Tech">
 
 # David Does Tech
 
 Backend Developer • Creator • Tech
 
 <div class="buttons centered big">
-    <a class="suggested" href="/projects/">Projects →</a>
     <a href="https://github.com/daviddoestech">GitHub →</a>
     <a href="https://youtube.com/@david_does_tech">YouTube →</a>
     <a href="https://www.twitch.tv/daviddoestech">Twitch →</a>

@@ -3,7 +3,7 @@
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
-base_url = "https://backups1der.github.io/ametrine-starter-template/"
+base_url = "https://daviddoestech.rf.gd"
 title = "David Does Tech"   # Appears in your browser's tab title and home page
 description = "David Does Tech's Website"   # Appears in your site's home page
 
@@ -178,7 +178,7 @@ show_comments_qr = false
 # favicon          = favicon.png
 # apple_touch_icon = apple-touch-icon.png
 # card             = card.png
-favicon = "🙂"
+favicon = "🖥️"
 apple_touch_icon = "favicon.png"
 card = true
 
@@ -194,7 +194,7 @@ icon = true
 # Any icon name from https://phosphoricons.com can be used.
 links = [
   { url = "@/blog/_index.md", name = "Blog", icon = "newspaper" },
-  { url = "@/demo/_index.md", name = "Demo", icon = "info" },
+  { url = "@/demo/_index.md", name = "Who am i?", icon = "info" },
   { url = "@/about/_index.md", name = "About me", icon = "user" },
 ]
 

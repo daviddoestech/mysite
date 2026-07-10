@@ -4,11 +4,11 @@
 # as setting your base URL to "/" let's you to build your website for any domain as
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
 base_url = "https://backups1der.github.io/ametrine-starter-template/"
-title = "Blog name"   # Appears in your browser's tab title and home page
-description = "Description"   # Appears in your site's home page
+title = "David Does Tech"   # Appears in your browser's tab title and home page
+description = "David Does Tech's Website"   # Appears in your site's home page
 
 theme = "ametrine"
-author = "Awesome guy"  # Change it to your online handle (or your name if you're OK with it lol)
+author = "David Does Tech"  # Change it to your online handle (or your name if you're OK with it lol)
 
 compile_sass = true
 build_search_index = true
@@ -53,11 +53,8 @@ internal_level = "warn"
 # Color attribute accepts the same values as extra.accent_color, which can be
 # found below.
 categories = [
-  { name = "Archived", description = "Posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
+
   { name = "Featured", description = "Posts that are somewhat decently written.", color = "yellow", icon = "star" },
-  { name = "Hot", description = "Posts that did numbers compared to others.", color = "red", icon = "fire" },
-  { name = "Test", description = "Categories can be set and customized entirely from config, woo-hoo!", color = "green", icon = "feather" },
-]
 
 # Accent color used by Ametrine.
 #
@@ -76,7 +73,8 @@ categories = [
 # presets by creating an "accent_presets.toml" file under the "./data/"
 # directory with custom preset names and colors. Use the one located in Ametrine
 # as a reference.
-accent_color = ["hsl(270, 50%, 60%)", "hsl(27.567572, 87%, 67%)"]
+accent_color = ["hsl(150, 75%, 50%)", "hsl(210, 90%, 60%)"]
+
 
 # Additional CSS styles; expects them to be in the "./static/" directory.
 
@@ -106,10 +104,10 @@ styles = ["index.css"]
 # issues_url = "https://github.com/example/blog/issues/new"
 
 # Whether to show estimated read time in posts.
-show_reading_time = true
+show_reading_time = false
 
 # Whether to show acopy button on code blocks
-copy_button = true
+copy_button = false
 
 # Whether to show an audio play button for audio files embedded using the {{ audio }} shortcode.
 # If you disable this, the you wouldn't be able to use audio shortcode unless you explicitly set
@@ -128,7 +126,7 @@ date_locale = "tr_TR"
 timezone = "Europe/Istanbul"
 
 # Shows a QR code that directly jumps to your Mastodon instance, focused on comment writer.
-show_comments_qr = true
+show_comments_qr = false
 
 # Whether to use Content Security Policy.
 # Keep in mind that although this can potentially increase security,
@@ -204,11 +202,11 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **Author name**, $YEAR."
+copyright = false 
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
-show_source = true
+show_source = false
 # Whether to show timestamp of the last build. Uses UTC timezone unless your own
 # is set under extra.timezone. If Git repository is detected, current commit
 # hash will be appended.
@@ -225,10 +223,12 @@ show_timestamp = true
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
 webrings = [
-  { name = "Example Webring", url = "https://example.com", previous = "https://example.com/prev", next = "https://example.com/next", random = "https://example.com/random" },
-]
+  { name = "YouTube Channel", url = "https://daviddoestech.rf.gd/youtube", previous = "https://daviddoestech.rf.gd", next = "https://daviddoestech.rf.gd/youtube", random = "https://daviddoestech.rf.gd" },
+  { name = "Twitch", url = "https://daviddoestech.rf.gd/twitch", previous = "https://daviddoestech.rf.gd", next = "https://daviddoestech.rf.gd/twitch", random = "https://daviddoestech.rf.gd" },
+  { name = "Discord", url = "https://daviddoestech.rf.gd/discord", previous = "https://daviddoestech.rf.gd", next = "https://daviddoestech.rf.gd/discord", random = "https://daviddoestech.rf.gd" },
+] 
 
-note = "<small>Did you know that you could change this text to your liking, and remove it completely?</small>"
+note = "<small>Subscribe to David Does Tech or else...</small>"
 
 # [extra.fediverse]
 # Fediverse integration.

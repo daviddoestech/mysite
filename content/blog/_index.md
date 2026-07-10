@@ -29,4 +29,4 @@ ____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_
 
 # Blog
 
-I love blogging, but blogging doesn't. Pretty sad, I know.
+this is where i will blog. ofc what else wold it be
